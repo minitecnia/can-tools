@@ -4,7 +4,7 @@
 
 ### SocketCAN userspace utilities and tools
 
-This repository contains some userspace utilities for Linux CAN
+This repository contains some of the can-utils utilities for Linux CAN
 subsystem (aka SocketCAN):
 
 #### Basic tools to display, record, generate and replay CAN traffic
