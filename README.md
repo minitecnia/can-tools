@@ -7,7 +7,7 @@
 This repository contains some of the can-utils utilities for Linux CAN
 subsystem (aka SocketCAN):
 
-#### Basic tools to display, record, generate and replay CAN traffic
+#### Basic tools to display, record, generate and replay MILCAN traffic
 
 * candump : display, filter and log CAN data to files
 * canplayer : replay CAN logfiles
@@ -15,7 +15,7 @@ subsystem (aka SocketCAN):
 * cangen : generate (random) CAN traffic
 * cansniffer : display CAN data content differences (just 11bit CAN IDs)
 
-#### CAN access via IP sockets
+#### MILCAN access via IP sockets
 * canlogserver : log CAN frames from a remote/local host
 * bcmserver : interactive BCM configuration (remote/local)
 * [socketcand](https://github.com/dschanoeh/socketcand) : use RAW/BCM/ISO-TP sockets via TCP/IP sockets
